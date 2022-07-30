@@ -1,3 +1,4 @@
+reinan
 .data
   #interface dos dados
   um : .asciiz "\n   |---|\n   |   |\n   | o |\n   |   |\n   |---|\n\n"
